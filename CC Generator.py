@@ -54,7 +54,8 @@ class Gen:
         return random.choice(self._b)
 
 
-g = Gen()
+b = Gen()
+
 def main():
     os.system('cls')
     sc = f'''
